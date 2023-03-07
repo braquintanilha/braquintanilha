@@ -1,4 +1,4 @@
-## Olá,  Seja bem-vindo! 
+## Olá,  seja bem-vindo! 
 Prazer, eu sou o Bruno! QA engineer e desenvolvedor de automação de testes. Aqui você encontrará meus projetos de estudo de automação de testes.
 <div align="center">
   <a href="https://github.com/braquintanilha">
