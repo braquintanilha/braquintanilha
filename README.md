@@ -1,5 +1,5 @@
 ## Olá,  Seja bem-vindo! 
-Eu sou o Bruno Quintanilha, QA engineer e desenvolvedor de automação de testes. Aqui você encontrará meus projetos de estudo de automação de testes.
+Prazer, eu sou o Bruno! QA engineer e desenvolvedor de automação de testes. Aqui você encontrará meus projetos de estudo de automação de testes.
 <div align="center">
   <a href="https://github.com/braquintanilha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=braquintanilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
